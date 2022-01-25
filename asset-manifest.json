@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Food_App/static/css/main.c8cf74ef.chunk.css",
-    "main.js": "/Food_App/static/js/main.53d9db73.chunk.js",
-    "main.js.map": "/Food_App/static/js/main.53d9db73.chunk.js.map",
-    "runtime-main.js": "/Food_App/static/js/runtime-main.7e09577e.js",
-    "runtime-main.js.map": "/Food_App/static/js/runtime-main.7e09577e.js.map",
-    "static/js/2.0e2eab8f.chunk.js": "/Food_App/static/js/2.0e2eab8f.chunk.js",
-    "static/js/2.0e2eab8f.chunk.js.map": "/Food_App/static/js/2.0e2eab8f.chunk.js.map",
-    "static/js/3.02d0ea64.chunk.js": "/Food_App/static/js/3.02d0ea64.chunk.js",
-    "static/js/3.02d0ea64.chunk.js.map": "/Food_App/static/js/3.02d0ea64.chunk.js.map",
-    "index.html": "/Food_App/index.html",
-    "static/css/main.c8cf74ef.chunk.css.map": "/Food_App/static/css/main.c8cf74ef.chunk.css.map",
-    "static/js/2.0e2eab8f.chunk.js.LICENSE.txt": "/Food_App/static/js/2.0e2eab8f.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/Food_App/static/media/meals.2971f633.jpg"
+    "main.css": "/github.io/Food_APP/static/css/main.c8cf74ef.chunk.css",
+    "main.js": "/github.io/Food_APP/static/js/main.8afae4ea.chunk.js",
+    "main.js.map": "/github.io/Food_APP/static/js/main.8afae4ea.chunk.js.map",
+    "runtime-main.js": "/github.io/Food_APP/static/js/runtime-main.dfe7f461.js",
+    "runtime-main.js.map": "/github.io/Food_APP/static/js/runtime-main.dfe7f461.js.map",
+    "static/js/2.87f8aca8.chunk.js": "/github.io/Food_APP/static/js/2.87f8aca8.chunk.js",
+    "static/js/2.87f8aca8.chunk.js.map": "/github.io/Food_APP/static/js/2.87f8aca8.chunk.js.map",
+    "static/js/3.1d34077d.chunk.js": "/github.io/Food_APP/static/js/3.1d34077d.chunk.js",
+    "static/js/3.1d34077d.chunk.js.map": "/github.io/Food_APP/static/js/3.1d34077d.chunk.js.map",
+    "index.html": "/github.io/Food_APP/index.html",
+    "static/css/main.c8cf74ef.chunk.css.map": "/github.io/Food_APP/static/css/main.c8cf74ef.chunk.css.map",
+    "static/js/2.87f8aca8.chunk.js.LICENSE.txt": "/github.io/Food_APP/static/js/2.87f8aca8.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/github.io/Food_APP/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e09577e.js",
-    "static/js/2.0e2eab8f.chunk.js",
+    "static/js/runtime-main.dfe7f461.js",
+    "static/js/2.87f8aca8.chunk.js",
     "static/css/main.c8cf74ef.chunk.css",
-    "static/js/main.53d9db73.chunk.js"
+    "static/js/main.8afae4ea.chunk.js"
   ]
 }
